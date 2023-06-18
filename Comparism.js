@@ -1,0 +1,7 @@
+// console.log(7>6)
+// console.log(8<1)
+// console.log(4==5)
+// console.log(8==8)
+// console.log(8!=8)
+// console.log( 7 <= 6)
+console.log(4 >= 2)
